@@ -1,8 +1,16 @@
 h1
 {
+<<<<<<< HEAD
 color: skyblue;
 }
 body
 {
   text-align: center;
+=======
+color: blue;
+}
+body
+{
+  background-color: purple;
+>>>>>>> blue-theme
 }
