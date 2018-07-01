@@ -3,5 +3,5 @@ p{
 }
 body
 {
-  background-photo: /home/immanuel/Downloads/Imma.jpg;
+  background: url=("/home/immanuel/Downloads/Imma.jpg");
 }
